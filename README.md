@@ -1,0 +1,3 @@
+•	Dashboard creation: Identify the KPI, design an intuitive and visually appealing dashboard, and have interactive visualization and filtering capabilities to allow users to explore data at various levels of granularity. 
+•	Data Analysis: Provide valuable insights to business entities regarding the effectiveness of their strategies through visualization. 
+•	Actionable Insights: The goal is to share valuable insights and actionable information to drive strategic decision-making and support the business goals for growth and efficiency for customer satisfaction concerning the Category of Item, Payment Mode, and States in India.
